@@ -32,7 +32,7 @@ class App extends Component {
           <button
             onClick={() => 
               this.setState(state => ({
-                text: state.text + '_helo'
+                text: state.text + "Aha "
               }))
             }
           >
