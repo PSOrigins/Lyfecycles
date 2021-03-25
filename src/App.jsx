@@ -28,6 +28,7 @@ class App extends Component {
           >
           Toggle lifecycle
           </button>
+          <br /> 
           <button
             onClick={() => 
               this.setState(state => ({
